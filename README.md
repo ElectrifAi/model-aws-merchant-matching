@@ -6,4 +6,4 @@ Our machine learning models are available through a Private Offer. Please contac
  
 SKU: MCMTH-PT-CBK-AWS-001
 
-AWS SageMaker:  https://aws.amazon.com/marketplace/pp/prodview-4pzbcipynctxi
+AWS SageMaker:  https://aws.amazon.com/marketplace/pp/prodview-5odwaoui6rnpy
